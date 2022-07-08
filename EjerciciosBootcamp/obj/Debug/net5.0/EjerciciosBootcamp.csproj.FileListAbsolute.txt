@@ -1,0 +1,16 @@
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.exe
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.deps.json
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.runtimeconfig.json
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.runtimeconfig.dev.json
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.dll
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\ref\EjerciciosBootcamp.dll
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\bin\Debug\net5.0\EjerciciosBootcamp.pdb
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.csproj.AssemblyReference.cache
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.AssemblyInfoInputs.cache
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.AssemblyInfo.cs
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.dll
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\ref\EjerciciosBootcamp.dll
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.pdb
+D:\workspace\dotnet\EjerciciosBootcamp\EjerciciosBootcamp\obj\Debug\net5.0\EjerciciosBootcamp.genruntimeconfig.cache
